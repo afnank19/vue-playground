@@ -1,0 +1,10 @@
+body {
+  background-color: #202020;
+  color: #dcd5cd;
+  font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
